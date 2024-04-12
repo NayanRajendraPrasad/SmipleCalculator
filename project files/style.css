@@ -46,7 +46,7 @@ body{
     transition: 0.3s;
 }
 .calculator form input:hover{
-    color: rgb(255, 134, 239);
+    color: rgb(255, 0, 221);
     translate: 5px;
     box-shadow: none;
 }
